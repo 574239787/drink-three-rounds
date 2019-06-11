@@ -1,0 +1,12 @@
+{
+    "name": "magicdragoon/jorudan",
+    "type": "library",
+    "description": "jorudan php sdk",
+    "keywords": ["jorudan"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "jorudan\\": "src/"
+        }
+    }
+}
