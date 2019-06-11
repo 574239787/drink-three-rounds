@@ -1,0 +1,18 @@
+{
+    “名字”：“yanlongma / push”，
+    “description”：“第三方消息推送”，
+    "authors": [
+        {
+            "name": "Yanlong Ma"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "YanlongMa\\Push\\": "src/"
+        }
+    }
+}
